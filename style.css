@@ -86,11 +86,11 @@ body {
     bottom: 3px;
     background-color: white;
     transition: 0.3s;
-    border-radius: 50%;
+    border-radius: 50%; 
 }
 
 input:checked + .toggle-slider {
-    background-color: #4CAF50;
+    background-color: #2d2d2d;
 }
 
 input:checked + .toggle-slider:before {
@@ -102,5 +102,5 @@ input:checked + .toggle-slider:before {
 }
 
 input:checked + .toggle-slider:hover {
-    background-color: #45a049;
+    background-color: #1e1e1e;
 }

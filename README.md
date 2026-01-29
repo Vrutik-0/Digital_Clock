@@ -9,7 +9,7 @@ https://vrutik-0.github.io/Digital_Clock/
 
 ## 📋 Features
 
-- Real-time digital clock display
+- Real-time digital clock display with 12-Formant Switch
 - Clean and responsive design
 - Pure JavaScript implementation
 - No external dependencies
